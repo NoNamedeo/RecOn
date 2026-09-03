@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecOn</string>
+    <string name="recording_channel_name">Registrazione continua</string>
+    <string name="recording_channel_description">Notifica persistente durante la registrazione audio</string>
+    <string name="recording_notification_title">RecOn sta registrando</string>
+    <string name="recording_notification_text">Registrazione 24/7 attiva</string>
+</resources>
